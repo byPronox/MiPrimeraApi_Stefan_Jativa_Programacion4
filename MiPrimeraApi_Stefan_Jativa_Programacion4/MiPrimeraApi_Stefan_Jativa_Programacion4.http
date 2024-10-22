@@ -1,0 +1,6 @@
+@MiPrimeraApi_Stefan_Jativa_Programacion4_HostAddress = http://localhost:5015
+
+GET {{MiPrimeraApi_Stefan_Jativa_Programacion4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
